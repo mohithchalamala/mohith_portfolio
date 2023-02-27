@@ -1,0 +1,134 @@
+
+     	    *{
+     	        margin: 0%;
+     	    }
+     		body
+     		{
+     			/* /background-color:rgba(0,0,0,0.3);/ */
+                background-image:url(https://img.freepik.com/free-vector/social-media-icons_53876-89124.jpg?w=900&t=st=1677403690~exp=1677404290~hmac=539a9678fa89711f4075679c0e0151bc5fa364ba638c6dc47cbc941c3d9a8d7c);
+                background-repeat:no-repeat;
+                background-attachment:scroll;
+                background-position:top;
+                background-size:100% 100%;
+
+     		}
+     		.one
+     		{
+                
+     			border-style:hidden;
+     			border-color:black;
+     			border-width:1px;
+     			margin-top:5%;
+     			text-indent:45%;
+     			padding:0.7%;
+     			width:50%;
+     			margin-left:23%;
+     			background-color:rgba(255,255,255,0.7);
+     			box-shadow:3px 3px 4px;
+     			font-family:monospace;
+     			font-size:130%;
+     		}
+     		.one a
+     		{
+     			text-decoration:none;
+     			color:black;
+     		}
+            .one:hover
+            {
+                color:rgba(255,93,71);
+            }
+            .two:hover
+            {
+                color:rgba(255,93,71);
+            }
+            .three:hover
+            {
+                color:rgba(255,93,71);
+            }
+            .four:hover
+            {
+                color:rgba(255,93,71);
+            }
+     		#symbol
+     		{
+     			text-indent:93%;
+     			margin-top:-3%;
+     		}
+
+
+     		.two
+     		{
+
+     			border-style:hidden;
+     			border-color:black;
+     			border-width:1px;
+     			margin-top:3%;
+     			text-indent:45%;
+     			padding:0.7%;
+     			width:50%;
+     			margin-left:23%;
+     			background-color:rgba(255,255,255,0.7);
+     			box-shadow:3px 3px 4px;
+     			font-family:monospace;
+     			font-size:130%;
+     		}
+     		.two a
+     		{
+     			text-decoration:none;
+     			color:black;
+     		}
+     		.three
+     		{
+
+     			border-style:hidden;
+     			border-color:black;
+     			border-width:1px;
+     			margin-top:3%;
+     			text-indent:45%;
+     			padding:0.7%;
+     			width:50%;
+     			margin-left:23%;
+     			background-color:rgba(255,255,255,0.7);
+     			box-shadow:3px 3px 4px;
+     			font-family:monospace;
+     			font-size:130%;
+     		}
+     		.three a
+     		{
+     			text-decoration:none;
+     			color:black;
+     		}
+     		.four
+     		{
+
+     			border-style:hidden;
+     			border-color:black;
+     			border-width:1px;
+     			margin-top:3%;
+     			text-indent:45%;
+     			padding:0.7%;
+     			width:50%;
+     			margin-left:23%;
+     			background-color:rgba(255,255,255,0.7);
+     			box-shadow:3px 3px 4px;
+     			font-family:monospace;
+     			font-size:130%;
+     		}
+     		.four a
+     		{
+     			text-decoration:none;
+     			color:black;
+     		}
+     		a:hover
+     		{
+     			color:rgba(255, 99, 71);
+
+     		}
+            #mahi{
+                color:white;
+                font-family: Monospace;
+                margin-left: 28%;
+                margin-top:3%;
+                font-size: 20px;
+                color:black;
+            }
